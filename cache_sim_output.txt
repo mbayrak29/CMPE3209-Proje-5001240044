@@ -1,0 +1,3 @@
+Toplam Referans: 2041
+Ilk 30 -> Hit: 24, Miss: 6, H: 0.8000, WB: 0
+Tum Iz -> Hit: 1923, Miss: 118, H: 0.9422, WB: 86
